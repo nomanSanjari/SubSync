@@ -1,10 +1,10 @@
 from io import StringIO
 import re
 
-FILE = "test.srt"
-ALTERED = "new.srt"
+FILE = #SOURCE FILE HERE
+ALTERED = #NEW FILE HERE
+SHIFT = #ADJUST BY SECONDS HERE
 PATTERN = "\-\-\>"
-SHIFT = -4
 
 
 def timeAdjust(hours, minutes, seconds, shift):
