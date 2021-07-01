@@ -1,9 +1,11 @@
 from io import StringIO
 import re
 
-FILE = #SOURCE FILE HERE
-ALTERED = #NEW FILE HERE
-SHIFT = #ADJUST BY SECONDS HERE
+#PUT FILE NAMES IN QUOTES
+#OBVIOUSLY
+FILE = #source file here
+ALTERED = #target file here
+SHIFT = #SHIFT of Subtitles 
 PATTERN = "\-\-\>"
 
 

@@ -1,0 +1,24 @@
+{
+  "name": "SubSync",
+  "version": "1.0.0",
+  "description": "Alter subtitle files to sync properly with the stuff on screen",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nomanSanjari/SubSync.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nomanSanjari/SubSync/issues"
+  },
+  "homepage": "https://github.com/nomanSanjari/SubSync#readme",
+  "dependencies": {
+    "@popperjs/core": "^2.9.2",
+    "bootstrap": "^5.0.2"
+  }
+}
